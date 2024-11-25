@@ -1,3 +1,6 @@
+#Plan files
+Plan.md
+
 # Compiled Object Files
 *.o
 *.obj
@@ -55,3 +58,4 @@ Thumbs.db  # Windows
 *.swp       # Vim swap files
 *.swo       # Vim swap files
 *~          # Emacs backup files
+
