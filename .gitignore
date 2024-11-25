@@ -1,0 +1,57 @@
+# Compiled Object Files
+*.o
+*.obj
+
+# Compiled Static Libraries
+*.a
+*.lib
+
+# Compiled Shared Libraries
+*.so
+*.dll
+*.dylib
+
+# Executables
+*.out
+*.exe
+
+# Debugging Files
+*.dSYM/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build and CMake files
+CMakeCache.txt
+CMakeFiles/
+CMakeLists.txt.user
+Makefile
+Makefile.user
+*.cmake
+
+# Dependency directories
+/lib/
+# If using vcpkg for dependencies
+/vcpkg/
+
+# OpenGL-related files (if you generate shaders or compiled GLSL files)
+*.vert
+*.frag
+*.geom
+*.tcs
+*.tes
+*.comp
+
+# System-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Temporary files from editor (if you're using certain IDEs)
+*.swp       # Vim swap files
+*.swo       # Vim swap files
+*~          # Emacs backup files
